@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Advice generator app coding challenge](./design/screenshot.png)
 
 ## Welcome! 👋
 
@@ -38,8 +38,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/shagariboy/interactive-rating-component-main)
-- Live Site URL: [Live Site](https://delightful-sunburst-264113.netlify.app/)
+- Solution URL: [Github](https://github.com/shagariboy/advice-generator-app-main)
+- Live Site URL: [Live Site](https://astonishing-frangipane-fb7eca.netlify.app/)
 
 ## My process
 
